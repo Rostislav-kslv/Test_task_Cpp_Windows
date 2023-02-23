@@ -20,16 +20,3 @@ Usage:
 <param> - Parameters to run the file.
 ```
 
-
-
-
-## TASK 2
-### Task: 
-Read the URL of a page and replace it.
-Expected behavior: 
-•	Determine when a search is performed in the browser. 
-•	Read the search result and replace it by adding "test:" at the beginning.
-You can choose a browser of your choice: Chrome, Edge, Firefox.
-
-### Optional:  
-Add support for all browsers in the list.
